@@ -1,16 +1,3 @@
-# flutter_complete_guide
+This is my first app developed using the Flutter framework with the Dart Programming Language. It's also my first ever push and commit to my github repo and I am so proud of myself for learning these things. I hope to learn more with this framework and to develop my programming skill further. Honestly I feel like what I know from 2 years of Computer Science just isn't enough so I am trying to learn more technologies :D
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ps. I commited this project two days ago but for some reason I couldnt upload the entire project because I was still learning git :D 
